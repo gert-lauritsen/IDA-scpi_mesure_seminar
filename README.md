@@ -6,12 +6,15 @@ Dette seminar har til formål at introducere og demonstrere anvendelsen af forsk
 * Grundlæggende teori om præcisionsmåling og signalanalyse 
 * Introduktion til SCPI (Standard Commands for Programmable Instruments) 
 * Fordele ved automatiseret måling med Python  
+
 Opsætning af Testmiljø  
 * Forbindelse af oscilloskop, elektronisk belastning, multimeter og funktionsgenerator 
 * Kommunikation mellem instrumenter og PC via SCPI 
+
 Praktiske eksempler på opsætning og fejlfinding  
 * Måling og Analyse af USB Signaler  
-* Måling af spænding, strøm og signalintegritet 
+* Måling af spænding, strøm og signalintegritet
+  
 Brug af oscilloskop til at analysere USB-dataoverførsel 
 * Identifikation af signalstøj og forstyrrelser  
 * Frekvens Sweep og Signalrespons  
