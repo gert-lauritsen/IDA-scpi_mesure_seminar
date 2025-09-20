@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP OPA2626IDGKR
+D High-Bandwidth, High-Precision, Low THD+N, 16-Bit and 18-Bit ADC Drivers
+K
+F http://www.ti.com/lit/gpn/opa2626
+$ENDCMP
+#
+#End Doc Library

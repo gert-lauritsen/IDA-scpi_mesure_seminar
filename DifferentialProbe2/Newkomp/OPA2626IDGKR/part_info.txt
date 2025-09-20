@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=OPA2626IDGKR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=1.1
+Released=2020-04-17 06:04:22
+Downloaded=2025-02-25 18:50:58
+3D=Y

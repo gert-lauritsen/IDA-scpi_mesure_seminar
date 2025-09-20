@@ -1,0 +1,6 @@
+../Core/Src/scpi-com.c:36:8:SCPI_Write	2
+../Core/Src/scpi-com.c:43:15:SCPI_Flush	1
+../Core/Src/scpi-com.c:48:5:SCPI_Error	1
+../Core/Src/scpi-com.c:56:15:SCPI_Control	2
+../Core/Src/scpi-com.c:69:15:SCPI_Reset	1
+../Core/Src/scpi-com.c:77:15:SCPI_SystemCommTcpipControlQ	1

@@ -1,0 +1,16 @@
+.OPA2626IDGKR :1 ;High-Bandwidth, High-Precision, Low THD+N, 16-Bit and 18-Bit ADC Drivers
+SOP65P490X110-8N
+*STM IC
+*NGS
+*PLB 1="OUT A" 2="±IN A" 3="+IN A" 4="V-" 5="+IN B" 6="-IN B" 7="OUT B" 8="V+"
+*MXP 8
+*DFN OPA2626IDGKR
+~!Mouser Part Number (595-OPA2626IDGKR)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=595-OPA2626IDGKR)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (OPA2626IDGKR)
+~!Link Datasheet (http://www.ti.com/lit/gpn/opa2626)
+~!Height (1.1mm)
+~!3D_Model (OPA2626IDGKR)
+OPA2626IDGKR
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

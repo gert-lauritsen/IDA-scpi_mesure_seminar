@@ -1,0 +1,4 @@
+../Core/Src/max6675.c:6:6:max6675_init	1
+../Core/Src/max6675.c:11:15:SelSensor	11
+../Core/Src/max6675.c:41:19:max6675_readbits	2
+../Core/Src/max6675.c:61:7:max6675_readTemp	1

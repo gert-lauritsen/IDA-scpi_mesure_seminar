@@ -1,0 +1,11 @@
+../Core/Src/scpi-def.c:47:22:EXAMPLE_MeasureVoltageIn	1
+../Core/Src/scpi-def.c:53:22:EXAMPLE_MeasureVoltageOut	1
+../Core/Src/scpi-def.c:59:22:DMM_MeasureVoltageAcQ	1
+../Core/Src/scpi-def.c:90:22:DMM_ConfigureVoltageDc	2
+../Core/Src/scpi-def.c:110:22:TEST_Bool	2
+../Core/Src/scpi-def.c:132:22:TEST_ChoiceQ	2
+../Core/Src/scpi-def.c:151:22:TEST_Numbers	1
+../Core/Src/scpi-def.c:163:22:TEST_Text	2
+../Core/Src/scpi-def.c:178:22:TEST_ArbQ	2
+../Core/Src/scpi-def.c:206:22:TEST_Chanlst	21
+../Core/Src/scpi-def.c:352:22:My_CoreTstQ	1

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'OPA2626IDGKR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "OPA2626IDGKR" (!) = "", "SOP65P490X110-8N", "Small Outline Packages", "595-OPA2626IDGKR", "https://www.mouser.com/Search/Refine.aspx?Keyword=595-OPA2626IDGKR", "High-Bandwidth, High-Precision, Low THD+N, 16-Bit and 18-Bit ADC Drivers", "http://www.ti.com/lit/gpn/opa2626", "1.1 mm"
+END_PART
+
+END.

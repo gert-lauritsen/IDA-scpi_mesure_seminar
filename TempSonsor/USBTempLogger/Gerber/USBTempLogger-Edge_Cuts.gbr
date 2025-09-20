@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.6*%
+%TF.CreationDate,2025-02-16T10:37:52+01:00*%
+%TF.ProjectId,USBTempLogger,55534254-656d-4704-9c6f-676765722e6b,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.6) date 2025-02-16 10:37:52*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X137000000Y-85000000D02*
+X184000000Y-85000000D01*
+X184000000Y-108000000D01*
+X137000000Y-108000000D01*
+X137000000Y-85000000D01*
+M02*
