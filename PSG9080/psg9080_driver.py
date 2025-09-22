@@ -8,6 +8,10 @@ Serial protocol wrapper using **pyserial**.
 
 This module exposes typed, Pythonic methods for each documented command, with
 helpers for unit conversions and robust handling of firmware ACKs (":ok").
+
+
+@author: Gert Lauritsen
+
 """
 from __future__ import annotations
 

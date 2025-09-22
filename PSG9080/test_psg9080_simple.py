@@ -2,7 +2,7 @@
 """
 Created on Sat Sep 20 19:52:32 2025
 
-@author: gert
+@author: Gert Lauritsen
 """
 
 """

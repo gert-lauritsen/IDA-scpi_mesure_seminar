@@ -9,6 +9,7 @@ Usage examples:
 This script performs a conservative configuration on one channel, reads back
 key parameters, and (optionally) runs short sweep and modulation demos.
 It always turns outputs off on exit.
+@author: Gert Lauritsen
 """
 import argparse
 import sys
