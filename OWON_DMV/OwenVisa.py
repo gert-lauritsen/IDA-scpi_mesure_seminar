@@ -84,7 +84,7 @@ def measure_voltage_current(device, duration, interval):
 def main():
     # Parse command-line arguments
     parser = argparse.ArgumentParser(description="SCPI interface for instruments using PyVISA.")
-    parser.add_argument('--resource', default='ASRL8::INSTR', help='VISA resource string (e.g., USB0::0x1AB1::0x0588::INSTR)')
+    parser.add_argument('--resource', default='ASRL6::INSTR', help='VISA resource string (e.g., USB0::0x1AB1::0x0588::INSTR)')
     parser.add_argument('--duration', type=int, default=100, help='Duration of the measurement in seconds (default: 10)')
     parser.add_argument('--interval', type=float, default=10.0, help='Interval between measurements in seconds (default: 1.0)')
 

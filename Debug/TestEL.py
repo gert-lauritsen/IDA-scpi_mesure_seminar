@@ -11,7 +11,7 @@ import pyvisa, time, csv
 rm = pyvisa.ResourceManager()
 for res in rm.list_resources():
     print(res)
-load_addr = rm.list_resources()[2]     
+load_addr = rm.list_resources()[3]     
 el = rm.open_resource(load_addr)
 
 

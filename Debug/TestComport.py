@@ -11,7 +11,7 @@ import time
 # Common baud rates to try
 baudrates = [9600, 19200, 38400, 57600, 115200, 230400, 460800, 921600]
 
-port = "COM5"
+port = "COM6"
 
 for baud in baudrates:
     try:
